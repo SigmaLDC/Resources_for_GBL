@@ -3,8 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Resouces_for_GBL's documentation!
+重要的论文
 ============================================
+节点表示
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+图表示
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+图神经网络
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+图神经网络的应用
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
