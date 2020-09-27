@@ -8,9 +8,11 @@ Welcome to Resouces_for_GBL's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录:
 
-
+   重要的论文
+   有用的实验
+   数据集资源
 
 Indices and tables
 ==================
