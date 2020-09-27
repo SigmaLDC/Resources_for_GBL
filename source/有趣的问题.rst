@@ -1,0 +1,35 @@
+.. Resouces_for_GBL documentation master file, created by
+   sphinx-quickstart on Sun Sep 27 14:23:57 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+有趣的问题
+============================================
+ | 关于图表示学习的进一步研究，大概有这样几个有趣的方向：
+
+更好的表示
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+有效的预训练方法
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+在图神经网络中，一开始被提出的预训练方法的训练目标是：重构邻域
+这个目标听起来有点抽象，但实际上是基于一些基本的假设，比如如果假设一个node和邻域中的node相似，那么重构的目标就是去使它们的向量表达距离上更接近。
+但是Velickovic et al.[2019]证明了这样预训练的向量并不比随机初始化的更好。
+其他预训练的目标也被提出，Velickovic et al.[2019]提出的预训练目标是最大化节点表达和图表达之间的互信息。
+
+大规模图的有效训练方法
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
